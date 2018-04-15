@@ -1,6 +1,6 @@
 (defproject oauth-client "0.1.0-SNAPSHOT"
-  :description "Oauth Authorization Code Grant Reference Implementation"
-  :url "http://example.com/FIXME"
+  :description "OAuth Authorization Code Grant reference implementation"
+  :url "https://github.com/jameslaneconkling/oauth-client"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
