@@ -1,4 +1,4 @@
-# OAuth Client
+# OpenID Connect/OAuth Client
 
 ## Configure
 **generate public/private key pair**
@@ -25,3 +25,6 @@ lein ring server-headless
 ```bash
 lein ring uberjar 
 ```
+
+## OpenIDConnect Providers
+* [Google](https://developers.google.com/identity/protocols/OpenIDConnect)
